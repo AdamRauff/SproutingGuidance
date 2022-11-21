@@ -26,4 +26,4 @@ Visualize_Data.m - graphs the directional PDFs alongside the original image proj
 
 Description of subdirectories
 
-IM_Projections - Folder containing samples of image projections analyzed in the paper.
+N01 - Folder containing samples of image projections analyzed in the paper.
